@@ -1,4 +1,4 @@
-# Binary-classification-problem-using-linear-classifier-and-logistic-regression
+# Binary-classification using-linear-classifier-and-logistic-regression
 SUSTech EE271 Artificial Intelligence and Machine Learning
 
 Consider the binary classification problem with one set of images labeled “empty” and the other set of images labeled “occupied” (Images are given in two folders in the attached data01.zip).
