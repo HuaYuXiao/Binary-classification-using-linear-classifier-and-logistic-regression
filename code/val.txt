@@ -1,9 +1,8 @@
-/empty/.DS_Store 0
 /empty/e2.png 0
 /empty/e3.png 0
 /empty/e1.png 0
 /empty/e4.png 0
-/occupied/.DS_Store 1
+
 /occupied/o2.png 1
 /occupied/o3.png 1
 /occupied/o1.png 1
